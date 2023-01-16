@@ -12,3 +12,5 @@ Crear una base de datos y reemplazar las credenciales del archivo .ipynb y corre
 
 `create extension cube;`
 `create extension earthdistance;`
+
+NOTE: no se pudo subir el archivo trips_scale.csv por temas de tamaño con github, se lo adjunto al correo.
